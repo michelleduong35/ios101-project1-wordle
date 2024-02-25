@@ -45,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6DD1CA3F2B8B07180063BD32 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		991CEC0529999E2A0095F025 /* KeyboardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardCell.swift; sourceTree = "<group>"; };
 		991CEC0729999ECD0095F025 /* KeyboardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardController.swift; sourceTree = "<group>"; };
 		9953C05429A40AC700247C5B /* BoardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardController.swift; sourceTree = "<group>"; };
@@ -97,6 +98,7 @@
 		996B849B299990A900133037 = {
 			isa = PBXGroup;
 			children = (
+				6DD1CA3F2B8B07180063BD32 /* README.md */,
 				996B84A6299990A900133037 /* Wordle */,
 				996B84BD299990AA00133037 /* WordleTests */,
 				996B84C7299990AA00133037 /* WordleUITests */,
